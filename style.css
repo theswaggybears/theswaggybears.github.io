@@ -38,3 +38,22 @@ body {
     flex-direction: column;
     text-align: left;
 }
+.bsh{
+    color: rgb(39, 50, 202);
+}
+.firstletter{
+    color:greenyellow;
+}
+.secondletter{
+    color:crimson
+}
+.thirdletter{
+    color:blueviolet
+}
+.fourthletter{
+    color:darkolivegreen
+}
+.capyimage{
+    width: 300px;
+    margin-top: 50px;
+}
