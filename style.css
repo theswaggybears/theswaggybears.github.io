@@ -27,8 +27,8 @@ body {
     justify-content: center;
     flex-direction: column;
     text-align: left;
-    color:chartreuse
-    backround:blanchedalmond
+    color:chartreuse;
+    background:blanchedalmond;
 }
 .colRoi{
     width: 46%;
