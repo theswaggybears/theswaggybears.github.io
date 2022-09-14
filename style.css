@@ -27,6 +27,8 @@ body {
     justify-content: center;
     flex-direction: column;
     text-align: left;
+    color:chartreuse;
+    background:blanchedalmond;
 }
 .colRoi{
     width: 46%;
@@ -44,7 +46,6 @@ body {
     flex-direction: column;
     text-align: left;
 }
-<<<<<<< Updated upstream
 .bsh{
     color: rgb(39, 50, 202);
 }
@@ -61,10 +62,12 @@ body {
     color:darkolivegreen
 }
 .capyimage{
-    width: 300px;
+    width: 370px;
     margin-top: 50px;
-=======
-
+}
+.yo{
+    font-size: 40px;
+}
 .sizeandcolor{
     font-size: 35px;
     color: rgb(14, 7, 91);
@@ -72,5 +75,4 @@ body {
 
 .poop{
     color: rgb(14, 7, 91);
->>>>>>> Stashed changes
 }
